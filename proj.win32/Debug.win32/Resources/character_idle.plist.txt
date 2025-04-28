@@ -1,0 +1,37 @@
+<plist version="1.0">
+  <dict>
+    <key>frames</key>
+    <dict>
+      <key>character_1.png</key>
+      <dict>
+        <key>x</key><integer>0</integer>
+        <key>y</key><integer>0</integer>
+        <key>width</key><integer>128</integer>
+        <key>height</key><integer>256</integer>
+        <key>offsetX</key><integer>0</integer>
+        <key>offsetY</key><integer>-128</integer>
+        <key>originalWidth</key><integer>128</integer>
+        <key>originalHeight</key><integer>256</integer>
+      </dict>
+      <!-- Repeat for other frames -->
+      <key>character_2.png</key>
+      <dict>
+        <key>x</key><integer>128</integer>
+        <key>y</key><integer>0</integer>
+        <key>width</key><integer>128</integer>
+        <key>height</key><integer>256</integer>
+        <key>offsetX</key><integer>0</integer>
+        <key>offsetY</key><integer>-128</integer>
+        <key>originalWidth</key><integer>128</integer>
+        <key>originalHeight</key><integer>256</integer>
+      </dict>
+      <!-- Continue for frames 3, 4, and 5 -->
+    </dict>
+    <key>metadata</key>
+    <dict>
+      <key>format</key><integer>2</integer>
+      <key>realTextureFileName</key><string>character_idle.png</string>
+      <key>size</key><string>128,256</string>
+    </dict>
+  </dict>
+</plist>

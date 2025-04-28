@@ -1,0 +1,1162 @@
+﻿  precheader.cpp
+  AssetsManager.cpp
+  AssetsManagerEx.cpp
+  CCEventAssetsManagerEx.cpp
+  CCEventListenerAssetsManagerEx.cpp
+  Manifest.cpp
+  CCControl.cpp
+  CCControlButton.cpp
+  CCControlColourPicker.cpp
+  CCControlHuePicker.cpp
+  CCControlPotentiometer.cpp
+  CCControlSaturationBrightnessPicker.cpp
+  CCControlSlider.cpp
+  CCControlStepper.cpp
+  CCControlSwitch.cpp
+  CCControlUtils.cpp
+  CCInvocation.cpp
+C:\Projects\MyGame\cocos2d\external\unzip\unzip.h(47,1): warning C4005: 'CC_DLL': macro redefinition
+  (compiling source file '/extensions/assets-manager/AssetsManager.cpp')
+  C:\Projects\MyGame\cocos2d\cocos\platform\win32\CCPlatformDefine-win32.h(40,1):
+  see previous definition of 'CC_DLL'
+  
+  CCScrollView.cpp
+  CCTableView.cpp
+  CCTableViewCell.cpp
+C:\Projects\MyGame\cocos2d\external\unzip\unzip.h(47,1): warning C4005: 'CC_DLL': macro redefinition
+  (compiling source file '/extensions/assets-manager/AssetsManagerEx.cpp')
+  C:\Projects\MyGame\cocos2d\cocos\platform\win32\CCPlatformDefine-win32.h(40,1):
+  see previous definition of 'CC_DLL'
+  
+  CCParticle3DAffector.cpp
+  CCParticle3DEmitter.cpp
+  CCParticle3DRender.cpp
+  CCParticleSystem3D.cpp
+  CCPUAffector.cpp
+  CCPUAffectorManager.cpp
+  CCPUAffectorTranslator.cpp
+  CCPUAlignAffector.cpp
+C:\Projects\MyGame\cocos2d\extensions\assets-manager\AssetsManagerEx.cpp(1180,46): warning C4305: '+=': truncation from 'double' to 'float'
+  (compiling source file '/extensions/assets-manager/AssetsManagerEx.cpp')
+  
+  CCPUAlignAffectorTranslator.cpp
+  CCPUBaseCollider.cpp
+  CCPUBaseColliderTranslator.cpp
+  CCPUBaseForceAffector.cpp
+  CCPUBaseForceAffectorTranslator.cpp
+  CCPUBeamRender.cpp
+  CCPUBehaviour.cpp
+  CCPUBehaviourManager.cpp
+  CCPUBehaviourTranslator.cpp
+  CCPUBillboardChain.cpp
+  CCPUBoxCollider.cpp
+  CCPUBoxColliderTranslator.cpp
+  CCPUBoxEmitter.cpp
+  CCPUBoxEmitterTranslator.cpp
+  CCPUCircleEmitter.cpp
+  CCPUCircleEmitterTranslator.cpp
+  CCPUCollisionAvoidanceAffector.cpp
+  CCPUCollisionAvoidanceAffectorTranslator.cpp
+  CCPUColorAffector.cpp
+  CCPUColorAffectorTranslator.cpp
+  CCPUDoAffectorEventHandler.cpp
+  CCPUDoAffectorEventHandlerTranslator.cpp
+  CCPUDoEnableComponentEventHandler.cpp
+  CCPUDoEnableComponentEventHandlerTranslator.cpp
+  CCPUDoExpireEventHandler.cpp
+  CCPUDoExpireEventHandlerTranslator.cpp
+  CCPUDoFreezeEventHandler.cpp
+  CCPUDoFreezeEventHandlerTranslator.cpp
+  CCPUDoPlacementParticleEventHandler.cpp
+  CCPUDoPlacementParticleEventHandlerTranslator.cpp
+  CCPUDoScaleEventHandler.cpp
+  CCPUDoScaleEventHandlerTranslator.cpp
+  CCPUDoStopSystemEventHandler.cpp
+  CCPUDoStopSystemEventHandlerTranslator.cpp
+  CCPUDynamicAttribute.cpp
+  CCPUDynamicAttributeTranslator.cpp
+  CCPUEmitter.cpp
+  CCPUEmitterManager.cpp
+  CCPUEmitterTranslator.cpp
+  CCPUEventHandler.cpp
+  CCPUEventHandlerManager.cpp
+  CCPUEventHandlerTranslator.cpp
+  CCPUFlockCenteringAffector.cpp
+  CCPUFlockCenteringAffectorTranslator.cpp
+  CCPUForceField.cpp
+  CCPUForceFieldAffector.cpp
+  CCPUForceFieldAffectorTranslator.cpp
+  CCPUGeometryRotator.cpp
+  CCPUGeometryRotatorTranslator.cpp
+  CCPUGravityAffector.cpp
+  CCPUGravityAffectorTranslator.cpp
+  CCPUInterParticleCollider.cpp
+  CCPUInterParticleColliderTranslator.cpp
+  CCPUJetAffector.cpp
+  CCPUJetAffectorTranslator.cpp
+  CCPULineAffector.cpp
+  CCPULineAffectorTranslator.cpp
+  CCPULinearForceAffector.cpp
+  CCPULinearForceAffectorTranslator.cpp
+  CCPULineEmitter.cpp
+  CCPULineEmitterTranslator.cpp
+  CCPUListener.cpp
+  CCPUMaterialManager.cpp
+  CCPUMaterialTranslator.cpp
+  CCPUMeshSurfaceEmitter.cpp
+  CCPUMeshSurfaceEmitterTranslator.cpp
+  CCPUNoise.cpp
+  CCPUObserver.cpp
+  CCPUObserverManager.cpp
+  CCPUObserverTranslator.cpp
+  CCPUOnClearObserver.cpp
+  CCPUOnClearObserverTranslator.cpp
+  CCPUOnCollisionObserver.cpp
+  CCPUOnCollisionObserverTranslator.cpp
+  CCPUOnCountObserver.cpp
+  CCPUOnCountObserverTranslator.cpp
+  CCPUOnEmissionObserver.cpp
+  CCPUOnEmissionObserverTranslator.cpp
+  CCPUOnEventFlagObserver.cpp
+  CCPUOnEventFlagObserverTranslator.cpp
+  CCPUOnExpireObserver.cpp
+  CCPUOnExpireObserverTranslator.cpp
+  CCPUOnPositionObserver.cpp
+  CCPUOnPositionObserverTranslator.cpp
+  CCPUOnQuotaObserver.cpp
+  CCPUOnQuotaObserverTranslator.cpp
+  CCPUOnRandomObserver.cpp
+  CCPUOnRandomObserverTranslator.cpp
+  CCPUOnTimeObserver.cpp
+  CCPUOnTimeObserverTranslator.cpp
+  CCPUOnVelocityObserver.cpp
+  CCPUOnVelocityObserverTranslator.cpp
+  CCPUParticleFollower.cpp
+  CCPUParticleFollowerTranslator.cpp
+  CCPUParticleSystem3D.cpp
+  CCPUParticleSystem3DTranslator.cpp
+  CCPUPathFollower.cpp
+  CCPUPathFollowerTranslator.cpp
+  CCPUPlane.cpp
+  CCPUPlaneCollider.cpp
+  CCPUPlaneColliderTranslator.cpp
+  CCPUPointEmitter.cpp
+  CCPUPointEmitterTranslator.cpp
+  CCPUPositionEmitter.cpp
+  CCPUPositionEmitterTranslator.cpp
+  CCPURandomiser.cpp
+  CCPURandomiserTranslator.cpp
+  CCPURender.cpp
+  CCPURendererTranslator.cpp
+  CCPURibbonTrail.cpp
+  CCPURibbonTrailRender.cpp
+  CCPUScaleAffector.cpp
+  CCPUScaleAffectorTranslator.cpp
+  CCPUScaleVelocityAffector.cpp
+  CCPUScaleVelocityAffectorTranslator.cpp
+  CCPUScriptCompiler.cpp
+  CCPUScriptLexer.cpp
+  CCPUScriptParser.cpp
+  CCPUScriptTranslator.cpp
+  CCPUSimpleSpline.cpp
+  CCPUSineForceAffector.cpp
+  CCPUSineForceAffectorTranslator.cpp
+  CCPUSlaveBehaviour.cpp
+  CCPUSlaveBehaviourTranslator.cpp
+  CCPUSlaveEmitter.cpp
+  CCPUSlaveEmitterTranslator.cpp
+  CCPUSphere.cpp
+  CCPUSphereCollider.cpp
+  CCPUSphereColliderTranslator.cpp
+  CCPUSphereSurfaceEmitter.cpp
+  CCPUSphereSurfaceEmitterTranslator.cpp
+  CCPUTechniqueTranslator.cpp
+  CCPUTextureAnimator.cpp
+  CCPUTextureAnimatorTranslator.cpp
+  CCPUTextureRotator.cpp
+  CCPUTextureRotatorTranslator.cpp
+  CCPUTranslateManager.cpp
+  CCPUUtil.cpp
+  CCPUVelocityMatchingAffector.cpp
+  CCPUVelocityMatchingAffectorTranslator.cpp
+  CCPUVertexEmitter.cpp
+  CCPUVortexAffector.cpp
+  CCPUVortexAffectorTranslator.cpp
+  CCPhysicsDebugNode.cpp
+  CCPhysicsSprite.cpp
+  clipper.cpp
+  ConvertUTF.c
+  ConvertUTFWrapper.cpp
+  edtaa3func.cpp
+  idl_gen_cpp.cpp
+  idl_gen_fbs.cpp
+  idl_gen_general.cpp
+  idl_gen_go.cpp
+  idl_gen_text.cpp
+  idl_parser.cpp
+  md5.c
+  shapes.cc
+  advancing_front.cc
+  cdt.cc
+  sweep.cc
+  sweep_context.cc
+  tinyxml2.cpp
+  ioapi_mem.cpp
+C:\Projects\MyGame\cocos2d\external\unzip\ioapi.h(25,1): warning C4005: 'CC_DLL': macro redefinition
+  (compiling source file '/external/unzip/ioapi_mem.cpp')
+  C:\Projects\MyGame\cocos2d\cocos\platform\win32\CCPlatformDefine-win32.h(40,1):
+  see previous definition of 'CC_DLL'
+  
+  ioapi.cpp
+C:\Projects\MyGame\cocos2d\external\unzip\ioapi.h(25,1): warning C4005: 'CC_DLL': macro redefinition
+  (compiling source file '/external/unzip/ioapi.cpp')
+  C:\Projects\MyGame\cocos2d\cocos\platform\win32\CCPlatformDefine-win32.h(40,1):
+  see previous definition of 'CC_DLL'
+  
+  unzip.cpp
+C:\Projects\MyGame\cocos2d\external\unzip\unzip.h(47,1): warning C4005: 'CC_DLL': macro redefinition
+  (compiling source file '/external/unzip/unzip.cpp')
+  C:\Projects\MyGame\cocos2d\cocos\platform\win32\CCPlatformDefine-win32.h(40,1):
+  see previous definition of 'CC_DLL'
+  
+  xxhash.c
+  CCAABB.cpp
+C:\Projects\MyGame\cocos2d\external\flatbuffers\idl_parser.cpp(790,3): warning C4858: discarding return value: The 'remove' and 'remove_if' algorithms return the iterator past the last element that should be kept. You need to call container.erase(result, container.end()) afterwards. In C++20, 'std::erase' and 'std::erase_if' are simpler replacements for these two steps.
+  (compiling source file '/external/flatbuffers/idl_parser.cpp')
+  
+C:\Projects\MyGame\cocos2d\external\xxhash\xxhash.c(312,5): warning C4804: '/': unsafe use of type 'bool' in operation
+  (compiling source file '/external/xxhash/xxhash.c')
+  
+  CCAnimate3D.cpp
+  CCAnimation3D.cpp
+  CCAttachNode.cpp
+  CCBillBoard.cpp
+  CCBundle3D.cpp
+  CCBundleReader.cpp
+  CCFrustum.cpp
+  CCMesh.cpp
+  CCMeshSkin.cpp
+  CCMeshVertexIndexData.cpp
+  CCMotionStreak3D.cpp
+  CCOBB.cpp
+  CCObjLoader.cpp
+  CCPlane.cpp
+  CCRay.cpp
+  CCSkeleton3D.cpp
+  CCSkybox.cpp
+  CCSprite3D.cpp
+  CCSprite3DMaterial.cpp
+  CCTerrain.cpp
+  AudioEngine.cpp
+  AudioCache.cpp
+  AudioDecoder.cpp
+  AudioDecoderManager.cpp
+  AudioDecoderMp3.cpp
+  AudioDecoderOgg.cpp
+  AudioEngine-win32.cpp
+  AudioPlayer.cpp
+  MciPlayer.cpp
+  SimpleAudioEngine.cpp
+  CCAllocatorDiagnostics.cpp
+  CCAllocatorGlobal.cpp
+  CCAllocatorGlobalNewDelete.cpp
+  atitc.cpp
+  base64.cpp
+  CCAsyncTaskPool.cpp
+  CCAutoreleasePool.cpp
+  ccCArray.cpp
+  CCConfiguration.cpp
+  CCConsole.cpp
+  CCController.cpp
+  CCController-linux-win32.cpp
+  CCData.cpp
+  CCDataVisitor.cpp
+  CCDirector.cpp
+  CCEvent.cpp
+  CCEventAcceleration.cpp
+  CCEventController.cpp
+  CCEventCustom.cpp
+  CCEventDispatcher.cpp
+  CCEventFocus.cpp
+  CCEventKeyboard.cpp
+  CCEventListener.cpp
+  CCEventListenerAcceleration.cpp
+  CCEventListenerController.cpp
+  CCEventListenerCustom.cpp
+  CCEventListenerFocus.cpp
+  CCEventListenerKeyboard.cpp
+  CCEventListenerMouse.cpp
+  CCEventListenerTouch.cpp
+  CCEventMouse.cpp
+  CCEventTouch.cpp
+  ccFPSImages.c
+  CCIMEDispatcher.cpp
+  CCNinePatchImageParser.cpp
+  CCStencilStateManager.cpp
+  CCNS.cpp
+  CCProfiling.cpp
+  CCProperties.cpp
+  ccRandom.cpp
+  CCRef.cpp
+  CCScheduler.cpp
+  CCScriptSupport.cpp
+  CCTouch.cpp
+  ccTypes.cpp
+  CCUserDefault.cpp
+  ccUTF8.cpp
+  ccUtils.cpp
+  CCValue.cpp
+  etc1.cpp
+  pvr.cpp
+  ObjectFactory.cpp
+  s3tc.cpp
+  TGAlib.cpp
+  ZipUtils.cpp
+C:\Projects\MyGame\cocos2d\external\unzip\unzip.h(47,1): warning C4005: 'CC_DLL': macro redefinition
+  (compiling source file '/base/ZipUtils.cpp')
+  C:\Projects\MyGame\cocos2d\cocos\platform\win32\CCPlatformDefine-win32.h(40,1):
+  see previous definition of 'CC_DLL'
+  
+  cocos2d.cpp
+  CCArray.cpp
+  CCDeprecated.cpp
+  CCDictionary.cpp
+  CCNotificationCenter.cpp
+  CCSet.cpp
+  CCString.cpp
+  CCBAnimationManager.cpp
+  CCBFileLoader.cpp
+  CCBKeyframe.cpp
+  CCBReader.cpp
+  CCBSequence.cpp
+  CCBSequenceProperty.cpp
+  CCControlButtonLoader.cpp
+  CCControlLoader.cpp
+  CCLabelBMFontLoader.cpp
+  CCLabelTTFLoader.cpp
+  CCLayerColorLoader.cpp
+  CCLayerGradientLoader.cpp
+  CCLayerLoader.cpp
+  CCMenuItemImageLoader.cpp
+  CCMenuItemLoader.cpp
+  CCNode+CCBRelativePositioning.cpp
+  CCNodeLoader.cpp
+  CCNodeLoaderLibrary.cpp
+  CCParticleSystemQuadLoader.cpp
+  CCScale9SpriteLoader.cpp
+  CCScrollViewLoader.cpp
+  CCSpriteLoader.cpp
+  CCActionTimeline.cpp
+  CCActionTimelineCache.cpp
+  CCActionTimelineNode.cpp
+  CCBoneNode.cpp
+  CCFrame.cpp
+  CCSkeletonNode.cpp
+  CCSkinNode.cpp
+  CCTimeLine.cpp
+  CSLoader.cpp
+  CCActionFrame.cpp
+  CCActionFrameEasing.cpp
+  CCActionManagerEx.cpp
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/ActionTimeline/CCActionTimelineCache.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/ActionTimeline/CCActionTimelineCache.cpp')
+  
+  CCActionNode.cpp
+  CCActionObject.cpp
+  CCArmature.cpp
+  CCArmatureAnimation.cpp
+  CCArmatureDataManager.cpp
+  CCArmatureDefine.cpp
+  CCBatchNode.cpp
+  CCBone.cpp
+  CCColliderDetector.cpp
+  CCComAttribute.cpp
+  CCComAudio.cpp
+  CCComController.cpp
+  CCComRender.cpp
+  CCDataReaderHelper.cpp
+  CCDatas.cpp
+  CCDecorativeDisplay.cpp
+  CCDisplayFactory.cpp
+  CCDisplayManager.cpp
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/ActionTimeline/CSLoader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/ActionTimeline/CSLoader.cpp')
+  
+  CCInputDelegate.cpp
+  CCComExtensionData.cpp
+  CCProcessBase.cpp
+  CCSGUIReader.cpp
+  CCSkin.cpp
+  CCSpriteFrameCacheHelper.cpp
+  CCSSceneReader.cpp
+  CCTransformHelp.cpp
+  CCTween.cpp
+  CCUtilMath.cpp
+  CocoLoader.cpp
+  CocoStudio.cpp
+  DictionaryHelper.cpp
+  FlatBuffersSerialize.cpp
+  LocalizationManager.cpp
+  TriggerBase.cpp
+  TriggerMng.cpp
+  TriggerObj.cpp
+  WidgetCallBackHandlerProtocol.cpp
+  ArmatureNodeReader.cpp
+  ButtonReader.cpp
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/ArmatureNodeReader/ArmatureNodeReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/ArmatureNodeReader/ArmatureNodeReader.cpp')
+  
+  CheckBoxReader.cpp
+  ComAudioReader.cpp
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/ButtonReader/ButtonReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/ButtonReader/ButtonReader.cpp')
+  
+  GameMapReader.cpp
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/FlatBuffersSerialize.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/FlatBuffersSerialize.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/ComAudioReader/ComAudioReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/ComAudioReader/ComAudioReader.cpp')
+  
+  GameNode3DReader.cpp
+  ImageViewReader.cpp
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/CheckBoxReader/CheckBoxReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/CheckBoxReader/CheckBoxReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/GameMapReader/GameMapReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/GameMapReader/GameMapReader.cpp')
+  
+  LayoutReader.cpp
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/GameNode3DReader/GameNode3DReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/GameNode3DReader/GameNode3DReader.cpp')
+  
+  Light3DReader.cpp
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/ImageViewReader/ImageViewReader.cpp')
+  
+  ListViewReader.cpp
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/ImageViewReader/ImageViewReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/Light3DReader/Light3DReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/Light3DReader/Light3DReader.cpp')
+  
+  LoadingBarReader.cpp
+  NodeReaderDefine.cpp
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/LayoutReader/LayoutReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/LayoutReader/LayoutReader.cpp')
+  
+  NodeReaderProtocol.cpp
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/ListViewReader/ListViewReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/ListViewReader/ListViewReader.cpp')
+  
+  NodeReader.cpp
+  PageViewReader.cpp
+  ParticleReader.cpp
+  ProjectNodeReader.cpp
+  ScrollViewReader.cpp
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/NodeReader/NodeReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/NodeReader/NodeReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/LoadingBarReader/LoadingBarReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/LoadingBarReader/LoadingBarReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/ProjectNodeReader/ProjectNodeReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/ProjectNodeReader/ProjectNodeReader.cpp')
+  
+  SingleNodeReader.cpp
+  BoneNodeReader.cpp
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/ParticleReader/ParticleReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/ParticleReader/ParticleReader.cpp')
+  
+  SkeletonNodeReader.cpp
+  SliderReader.cpp
+  SpriteReader.cpp
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/SingleNodeReader/SingleNodeReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/SingleNodeReader/SingleNodeReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/SkeletonReader/BoneNodeReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/SkeletonReader/BoneNodeReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/PageViewReader/PageViewReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/PageViewReader/PageViewReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/ScrollViewReader/ScrollViewReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/ScrollViewReader/ScrollViewReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/SkeletonReader/SkeletonNodeReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/SkeletonReader/SkeletonNodeReader.cpp')
+  
+  TabControlReader.cpp
+  TextAtlasReader.cpp
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/SpriteReader/SpriteReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/SpriteReader/SpriteReader.cpp')
+  
+  TextBMFontReader.cpp
+  TextFieldReader.cpp
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/SliderReader/SliderReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/SliderReader/SliderReader.cpp')
+  
+  TextReader.cpp
+  Node3DReader.cpp
+  Sprite3DReader.cpp
+  UserCameraReader.cpp
+  Particle3DReader.cpp
+  WidgetReader.cpp
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/TabControlReader/TabControlReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/TabControlReader/TabControlReader.cpp')
+  
+  CCAffineTransform.cpp
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/TextAtlasReader/TextAtlasReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/TextAtlasReader/TextAtlasReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/Node3DReader/Node3DReader.cpp')
+  
+  CCGeometry.cpp
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/Node3DReader/Node3DReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/Particle3DReader/Particle3DReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/Particle3DReader/Particle3DReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/UserCameraReader/UserCameraReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/UserCameraReader/UserCameraReader.cpp')
+  
+  CCVertex.cpp
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/Sprite3DReader/Sprite3DReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/Sprite3DReader/Sprite3DReader.cpp')
+  
+  Mat4.cpp
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/TextBMFontReader/TextBMFontReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/TextFieldReader/TextFieldReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/TextBMFontReader/TextBMFontReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/TextFieldReader/TextFieldReader.cpp')
+  
+  MathUtil.cpp
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/TextReader/TextReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/TextReader/TextReader.cpp')
+  
+  Quaternion.cpp
+  TransformUtils.cpp
+  Vec2.cpp
+  Vec3.cpp
+  Vec4.cpp
+  CCNavMesh.cpp
+  CCNavMeshAgent.cpp
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1546,68): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/WidgetReader.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305: 'argument': truncation from 'double' to 'T'
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         with
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         [
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:             T=float
+C:\Projects\MyGame\cocos2d\cocos\editor-support\cocostudio\CSParseBinary_generated.h(1593,115): warning C4305:         ]
+  (compiling source file '/editor-support/cocostudio/WidgetReader/WidgetReader.cpp')
+  
+  CCNavMeshDebugDraw.cpp
+  CCNavMeshObstacle.cpp
+  CCNavMeshUtils.cpp
+  CCDownloader-curl.cpp
+  CCDownloader.cpp
+  HttpClient.cpp
+  SocketIO.cpp
+  Uri.cpp
+  WebSocket.cpp
+  CCPhysics3D.cpp
+  CCPhysics3DComponent.cpp
+  CCPhysics3DConstraint.cpp
+  CCPhysics3DDebugDrawer.cpp
+  CCPhysics3DObject.cpp
+  CCPhysics3DShape.cpp
+  CCPhysics3DWorld.cpp
+  CCPhysicsSprite3D.cpp
+  CCPhysicsBody.cpp
+  CCPhysicsContact.cpp
+  CCPhysicsJoint.cpp
+  CCPhysicsShape.cpp
+  CCPhysicsWorld.cpp
+  CCFileUtils.cpp
+C:\Projects\MyGame\cocos2d\external\unzip\unzip.h(47,1): warning C4005: 'CC_DLL': macro redefinition
+  (compiling source file '/platform/CCFileUtils.cpp')
+  C:\Projects\MyGame\cocos2d\cocos\platform\win32\CCPlatformDefine-win32.h(40,1):
+  see previous definition of 'CC_DLL'
+  
+  CCGLView.cpp
+  CCImage.cpp
+  CCSAXParser.cpp
+  CCThread.cpp
+  CCGLViewImpl-desktop.cpp
+  CCApplication-win32.cpp
+  CCCommon-win32.cpp
+C:\Projects\MyGame\cocos2d\cocos\platform\CCSAXParser.cpp(169,35): warning C4101: 'e': unreferenced local variable
+  (compiling source file '/platform/CCSAXParser.cpp')
+  
+  CCDevice-win32.cpp
+  CCFileUtils-win32.cpp
+  CCStdC-win32.cpp
+  CCUtils-win32.cpp
+  CCBatchCommand.cpp
+  CCCustomCommand.cpp
+  CCFrameBuffer.cpp
+  CCGLProgram.cpp
+  CCGLProgramCache.cpp
+  CCGLProgramState.cpp
+  CCGLProgramStateCache.cpp
+  ccGLStateCache.cpp
+  CCGroupCommand.cpp
+  CCMaterial.cpp
+  CCMeshCommand.cpp
+C:\Projects\MyGame\cocos2d\cocos\renderer\CCGLProgramState.cpp(920,14): warning C4996: 'cocos2d::UniformValue::setTexture': was declared deprecated
+  (compiling source file '/renderer/CCGLProgramState.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\renderer\CCGLProgramState.cpp(924,14): warning C4996: 'cocos2d::UniformValue::setTexture': was declared deprecated
+  (compiling source file '/renderer/CCGLProgramState.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\renderer\CCGLProgramState.cpp(941,14): warning C4996: 'cocos2d::UniformValue::setTexture': was declared deprecated
+  (compiling source file '/renderer/CCGLProgramState.cpp')
+  
+C:\Projects\MyGame\cocos2d\cocos\renderer\CCGLProgramState.cpp(945,14): warning C4996: 'cocos2d::UniformValue::setTexture': was declared deprecated
+  (compiling source file '/renderer/CCGLProgramState.cpp')
+  
+  CCPass.cpp
+  CCPrimitive.cpp
+  CCPrimitiveCommand.cpp
+  CCQuadCommand.cpp
+  CCRenderCommand.cpp
+  CCRenderer.cpp
+  CCRenderState.cpp
+  ccShaders.cpp
+  CCTechnique.cpp
+  CCTexture2D.cpp
+  CCTextureAtlas.cpp
+  CCTextureCache.cpp
+  CCTextureCube.cpp
+  CCTrianglesCommand.cpp
+  CCVertexAttribBinding.cpp
+  CCVertexIndexBuffer.cpp
+  CCVertexIndexData.cpp
+  LocalStorage.cpp
+  CocosGUI.cpp
+  UIButton.cpp
+  UIAbstractCheckButton.cpp
+  UICheckBox.cpp
+  UIEditBoxImpl-common.cpp
+  UIRadioButton.cpp
+  UIDeprecated.cpp
+  UIEditBox.cpp
+  UIEditBoxImpl-win32.cpp
+  UIHBox.cpp
+  UIHelper.cpp
+  UIImageView.cpp
+  UILayout.cpp
+  UILayoutComponent.cpp
+  UILayoutManager.cpp
+  UILayoutParameter.cpp
+  UIListView.cpp
+  UILoadingBar.cpp
+  UIPageView.cpp
+  UIPageViewIndicator.cpp
+  UIRelativeBox.cpp
+  UIRichText.cpp
+  UIScale9Sprite.cpp
+  UIScrollView.cpp
+  UIScrollViewBar.cpp
+  UISlider.cpp
+  UITabControl.cpp
+  UIText.cpp
+  UITextAtlas.cpp
+  UITextBMFont.cpp
+  UITextField.cpp
+  UIVBox.cpp
+  UIWebView.cpp
+  UIWidget.cpp
+  CCVRDistortion.cpp
+  CCVRDistortionMesh.cpp
+  CCVRGenericHeadTracker.cpp
+  CCVRGenericRenderer.cpp
+  CCAction.cpp
+  CCActionCamera.cpp
+  CCActionCatmullRom.cpp
+  CCActionEase.cpp
+  CCActionGrid.cpp
+  CCActionGrid3D.cpp
+  CCActionInstant.cpp
+  CCActionInterval.cpp
+  CCActionManager.cpp
+  CCActionPageTurn3D.cpp
+  CCActionProgressTimer.cpp
+  CCActionTiledGrid.cpp
+  CCActionTween.cpp
+  CCAnimation.cpp
+  CCAnimationCache.cpp
+  CCAtlasNode.cpp
+  CCAutoPolygon.cpp
+  CCCamera.cpp
+  CCCameraBackgroundBrush.cpp
+  CCClippingNode.cpp
+  CCClippingRectangleNode.cpp
+  CCComponent.cpp
+  CCComponentContainer.cpp
+  CCDrawingPrimitives.cpp
+  CCDrawNode.cpp
+  CCFastTMXLayer.cpp
+  CCFastTMXTiledMap.cpp
+  CCFontAtlas.cpp
+  CCFontAtlasCache.cpp
+  CCFontCharMap.cpp
+  CCFontFNT.cpp
+  CCFontFreeType.cpp
+  CCGLBufferedNode.cpp
+  CCGrabber.cpp
+  CCGrid.cpp
+  CCLabel.cpp
+  CCLabelAtlas.cpp
+  CCLabelBMFont.cpp
+  CCLabelTextFormatter.cpp
+  CCLabelTTF.cpp
+  CCLayer.cpp
+  CCLight.cpp
+  CCMenu.cpp
+  CCMenuItem.cpp
+  CCMotionStreak.cpp
+  CCNode.cpp
+  CCNodeGrid.cpp
+  CCParallaxNode.cpp
+  CCParticleBatchNode.cpp
+  CCParticleExamples.cpp
+  CCParticleSystem.cpp
+  CCParticleSystemQuad.cpp
+  CCProgressTimer.cpp
+  CCProtectedNode.cpp
+  CCRenderTexture.cpp
+  CCScene.cpp
+  CCSprite.cpp
+  CCSpriteBatchNode.cpp
+  CCSpriteFrame.cpp
+  CCSpriteFrameCache.cpp
+  CCTextFieldTTF.cpp
+  CCTileMapAtlas.cpp
+  CCTMXLayer.cpp
+  CCTMXObjectGroup.cpp
+  CCTMXTiledMap.cpp
+  CCTMXXMLParser.cpp
+  CCTransition.cpp
+  CCTransitionPageTurn.cpp
+  CCTransitionProgress.cpp
+  CCTweenFunction.cpp
+  1 File(s) copied
+  1 File(s) copied
+  2 File(s) copied
+  1 File(s) copied
+  1 File(s) copied
+  1 File(s) copied
+  1 File(s) copied
+  2 File(s) copied
+  2 File(s) copied
+  2 File(s) copied
+  2 File(s) copied
+  2 File(s) copied
+  2 File(s) copied
+  6 File(s) copied
+  2 File(s) copied
+  1 File(s) copied
+  1 File(s) copied
+  1 File(s) copied
+  4 File(s) copied
+  2 File(s) copied
+libtiff.lib(tif_win32.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+     Creating library C:\Projects\MyGame\proj.win32\Release.win32\libcocos2d.lib and object C:\Projects\MyGame\proj.win32\Release.win32\libcocos2d.exp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+libtiff.lib(tif_aux.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_aux.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_close.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_close.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_codec.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_codec.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_color.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_color.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_compress.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_compress.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_dir.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_dir.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_dirinfo.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_dirinfo.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_dirread.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_dirread.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_dirwrite.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_dirwrite.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_dumpmode.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_dumpmode.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_error.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_error.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_fax3.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_fax3.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_fax3sm.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_fax3sm.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_getimage.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_getimage.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_flush.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_flush.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_luv.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_luv.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_lzw.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_lzw.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_next.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_next.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_open.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_open.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_packbits.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_packbits.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_predict.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_predict.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_read.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_read.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_swab.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_swab.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_strip.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_strip.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_thunder.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_thunder.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_tile.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_tile.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_warning.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_warning.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_write.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_write.obj)' or at ''; linking object as if no debug info
+libtiff.lib(tif_win32.obj) : warning LNK4099: PDB '' was not found with 'libtiff.lib(tif_win32.obj)' or at ''; linking object as if no debug info
+  libcocos2d.vcxproj -> C:\Projects\MyGame\proj.win32\Release.win32\libcocos2d.dll

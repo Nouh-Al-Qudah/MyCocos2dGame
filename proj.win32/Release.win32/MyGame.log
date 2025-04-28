@@ -1,0 +1,10 @@
+﻿  AppDelegate.cpp
+     Creating library C:\Projects\MyGame\proj.win32\Release.win32\MyGame.lib and object C:\Projects\MyGame\proj.win32\Release.win32\MyGame.exp
+  Generating code
+  31 of 348 functions ( 8.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    10 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  MyGame.vcxproj -> C:\Projects\MyGame\proj.win32\Release.win32\MyGame.exe
+  Performing Custom Build Step
+  0 File(s) copied
