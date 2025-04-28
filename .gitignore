@@ -1,0 +1,8 @@
+# Ignore Visual Studio build files
+*.pdb
+*.pch
+*.ipch
+*.obj
+*.lib
+*.dll
+*.app
